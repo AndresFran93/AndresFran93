@@ -1,5 +1,5 @@
 ### Hola soy Andres 👋
-**Estudiante ICO en la FES Aragón**
+**Estudiante de ICO en la FES Aragón**
 
 <!--
 **AndresFran93/AndresFran93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
